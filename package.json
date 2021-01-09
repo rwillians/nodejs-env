@@ -1,6 +1,6 @@
 {
   "name": "sugar-env",
-  "version": "1.5.14",
+  "version": "1.6.0",
   "description": "Sugar code to read environment variables with default values.",
   "license": "MIT",
   "author": "Rafael Willians <me@rwillians.com>",
@@ -27,7 +27,7 @@
     "url": "https://github.com/rwillians/sugar-env.js/issues"
   },
   "engines": {
-    "node": ">=7.6.0"
+    "node": ">= 10.3.0"
   },
   "scripts": {
     "build": "tsc",
